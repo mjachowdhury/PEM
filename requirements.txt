@@ -1,0 +1,23 @@
+Personal Expenses Managemet
+-----------------------------
+
+Requirements:
+	1. Category Master : User can add/manage category
+	2. Expenses Entry (Category wise)
+	2. Expenses List
+	4. Reports
+		1. Monthly Expenses Report
+		2. Yearly Expenses Report
+		3. Category Wise Report
+	
+	User Interface
+	1. Desktop Application/Windows App : AWT/Swing /JavaFx
+	2. CUI : Char User Interface (Switch-case)
+	3. Web GUI : HTML/CSS
+	4. Android App
+	
+	Database/ Repository
+	1. JDBC API with MySql/Oracle Database
+	2. File Based Repository
+	3. Collection API as Repository
+	4. Cloud Repository
